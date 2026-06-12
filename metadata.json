@@ -1,0 +1,6 @@
+{
+  "name": "Optomistic Humanity Charity Organization Constitutional Ledger",
+  "description": "An interactive, professionally styled book-form constitutional ledger for the Optomistic Humanity Charity Organization in Sierra Leone with page flipping and illustrations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
